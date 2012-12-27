@@ -1,0 +1,11 @@
+# github
+export GITHUB_USERNAME="brandon-vaughan"
+
+# localhost
+export LOCAL_DB_HOST="127.0.0.1"
+export LOCAL_DB_USER="root"
+export LOCAL_DB_PASS=""
+
+# mysql
+export LOCAL_MYSQL="/usr/local/bin/mysql"
+export LOCAL_MYSQLDUMP="/usr/local/bin/mysqldump"
