@@ -33,8 +33,10 @@ alias photoshop="open -a '/Applications/Adobe Photoshop CS6/Adobe Photoshop.app'
 
 # GIT STUFF
 
-# Undo a `git push`
 alias undopush="git push -f origin HEAD^:master"
+alias new_branch="git b"
+alias delete_branch="git branch -d"
+alias switchto="git co"
 
 
 # git root

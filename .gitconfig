@@ -1,5 +1,7 @@
 [alias]
   c = commit -am
+  co = checkout
+  b = checkout -b
   up = pull
   p = push
   s = status -s
